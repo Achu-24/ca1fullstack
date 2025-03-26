@@ -14,4 +14,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 Deployment link
 
-https://app.netlify.com/sites/curious-puppy-37beec/deploys/
+https://app.netlify.com/sites/charming-piroshki-6d3cf7/overview
